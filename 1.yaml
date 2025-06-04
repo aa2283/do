@@ -2,7 +2,7 @@
 # 机场订阅
 proxy-providers:
   Airport1:
-    url: "https://fastly.jsdelivr.net/gh/chengaopan/AutoMergePublicNodes@master/list.yml"
+    url: ""
     type: http
     interval: 86400
     health-check:
